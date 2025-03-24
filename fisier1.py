@@ -1,0 +1,2 @@
+print("MAIN - linie1")
+
